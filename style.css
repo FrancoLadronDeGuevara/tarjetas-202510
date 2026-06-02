@@ -52,6 +52,10 @@ body {
   text-shadow: 0 3px 2px #00000020;
 }
 
+.profession {
+  font-size: 14px;
+}
+
 .phrase {
   font-style: italic;
   font-size: 10px;
