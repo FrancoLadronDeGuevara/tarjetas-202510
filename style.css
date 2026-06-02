@@ -54,9 +54,11 @@ body {
 
 .profession {
   font-size: 14px;
+  color: rgb(1, 1, 74);
 }
 
 .phrase {
   font-style: italic;
   font-size: 10px;
+  color: rgb(1, 1, 74);
 }
